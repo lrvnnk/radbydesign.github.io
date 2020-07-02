@@ -1,0 +1,24 @@
+body{
+    border: solid thin black;
+    padding: 2em;
+    margin: 1em;
+    background: linear-gradient(lavender,white);
+    font-family:fantasy;
+}
+h1{
+    margin-top: .5em;
+    border-bottom: solid thin black;
+    color: black;
+    font-size: 36pt;
+}
+p{
+    clear: right;
+}
+img{
+    border-radius: 0%;
+}
+footer{
+    border-top: solid thin black;
+    padding-top: 1em;
+}
+ul{list-style:square}

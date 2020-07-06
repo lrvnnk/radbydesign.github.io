@@ -5,11 +5,12 @@ body{
     background: linear-gradient(lavender,white);
     font-family:fantasy;
 }
-h1{
+header{
     margin-top: .5em;
     border-bottom: solid thick black;
     color: black;
-    font-size: 36pt;
+    font-size: 16pt;
+    text-align: center;
 }
 p{
     clear: right;
@@ -31,4 +32,9 @@ div{
 main p{
     font-size: 20pt;
     font-weight: bold;
+}
+#badger{
+    float: left;
+    position: relative;
+    top:-80px;
 }

@@ -22,7 +22,9 @@ footer{
     border-top: solid thin black;
     padding-top: 1em;
 }
-ul{list-style:square}
+ul{
+    list-style:square;
+}
 div{
     border-top: solid thin black;
     border-bottom: solid thin black;
